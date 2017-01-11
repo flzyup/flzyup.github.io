@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Yonnie.Rocks</title>
+  <subtitle>Let&#39;s rock the world!</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yonnie.rocks/"/>
+  <updated>2017-01-11T10:21:58.000Z</updated>
+  <id>http://yonnie.rocks/</id>
+  
+  <author>
+    <name>Yonnie Lu</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Blog open now</title>
+    <link href="http://yonnie.rocks/2017/01/11/Blog-open-now/"/>
+    <id>http://yonnie.rocks/2017/01/11/Blog-open-now/</id>
+    <published>2017-01-11T10:16:05.000Z</published>
+    <updated>2017-01-11T10:21:58.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>Opening @ 2017-01<br>Yonnie.Rocks<br>Let’s rock the world!</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Opening @ 2017-01&lt;br&gt;Yonnie.Rocks&lt;br&gt;Let’s rock the world!&lt;/p&gt;
+
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
